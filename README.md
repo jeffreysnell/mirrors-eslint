@@ -1,4 +1,4 @@
-eslint mirror
+eslint mirror (with plugins for my personal projects)
 ================
 
 Mirror of eslint package for pre-commit.
